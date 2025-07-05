@@ -1,0 +1,30 @@
+{
+	"nodes":[
+		{"id":"2ea0ceac34bd659e","type":"group","x":-340,"y":-265,"width":880,"height":661,"label":"Weather app"},
+		{"id":"d722852e600c686e","type":"group","x":580,"y":-740,"width":440,"height":500,"color":"5","label":"Ascii Art"},
+		{"id":"64ea0a225d077f21","type":"text","text":"52 weeks 52 projects\n30 days 30 art projects\n","x":120,"y":-891,"width":308,"height":131},
+		{"id":"9e0c641ecc954072","type":"text","text":"Ascii art\n\nIdea came from\nhttps://athoug.github.io/art-daily/\n","x":600,"y":-720,"width":397,"height":130},
+		{"id":"99a172ee3451b6c8","type":"text","text":"create a task manager\n* dragable managing tasks(changing priority)\n* change color to distinguish priorities\n* priority changes on color\n* progress bar on top that detects current status\n","x":-920,"y":-601,"width":420,"height":223},
+		{"id":"d899cc1dbff63673","type":"text","text":"![[Pasted image 20250519154849.png]]","x":600,"y":-560,"width":397,"height":270},
+		{"id":"a687e3e4880d3cdc","type":"text","text":"# IDEA SHEET","x":-160,"y":-520,"width":250,"height":60,"color":"1"},
+		{"id":"da98bc5a66ad25a9","type":"text","text":"Weather app\n\nbackground (3d)\n\nscreen in front of it to change weather of different places \n\nchanging places affect the weather of the background\n\nmake it like a window where you can see out of it changing the weather\n","x":-320,"y":-245,"width":419,"height":365},
+		{"id":"c67208c12a536f95","type":"text","text":"use stabel diffusion\n\ncan also make a side by side video\n","x":120,"y":-236,"width":367,"height":115},
+		{"id":"2c34a604042d9a9c","type":"text","text":"glass morph\n\nchange whole theme\n\nuse spline for small 3d elements\n\nbackground tint ??\n\nadd blurred clouds?\n","x":120,"y":-92,"width":367,"height":272},
+		{"id":"e2098f196be8ed10","type":"text","text":"![[Pasted image 20250521184538.png]]\n","x":-320,"y":120,"width":419,"height":256},
+		{"id":"51f0a1ec2d71727b","type":"text","text":"Unity game dev\n","x":-920,"y":-2280,"width":250,"height":60,"color":"3"},
+		{"id":"cd88749be2ea2e18","type":"text","text":"top down Zombie shooter game\n\n\nshotgun causes recoil makes person go back\n\nrifle slows the guy\n\npistol works normal\n\n- [ ] Wasd movement\n- [ ]  Create 2D player sprite (placeholder is fine)\n- [ ]  colliders \n- [ ] make player rotate with mouse\n\n---\n\n- [ ] bullet prefab\n- [ ] shooting bullets\n- [ ] bullet speed and lifetime\n- [ ] cooldown and firerate\n\n---\n- [ ] zombie and it colliders\n- [ ] follow player ai\n- [ ] spawn zombies\n- [ ] dedstroy when health 0\n- [ ] add health\n\n---\n- [ ] player health\n- [ ] zombie damage on contact\n- [ ] bullets damage zombie\n- [ ] game over\n\n---\n\n\n","x":315,"y":-2390,"width":570,"height":1110},
+		{"id":"7a8dee869026bbdd","type":"text","text":"endless runner\n\ntotal 10 segments\n\n5-6  of each kind\n\nrotate half of them\n\nonly need to make 5 or \n","x":-410,"y":-1450,"width":250,"height":340},
+		{"id":"df22c5a5773f568f","type":"text","text":"flappy birb\n\n- [ ] start menu\n- [ ] sound effects\n- [x] go up and die\n- [x] clouds \n- [ ] save highscore\n- [ ] paralax bacckground?","x":-1524,"y":-2005,"width":250,"height":340},
+		{"id":"eaf50acbdaddb236","type":"text","text":"3d rogue like\n\nheal like dead island 2","x":-1170,"y":-1450,"width":250,"height":404}
+	],
+	"edges":[
+		{"id":"fc0b43358d723167","fromNode":"a687e3e4880d3cdc","fromSide":"left","toNode":"99a172ee3451b6c8","toSide":"right"},
+		{"id":"dfa7c65611f03234","fromNode":"a687e3e4880d3cdc","fromSide":"right","toNode":"d722852e600c686e","toSide":"left"},
+		{"id":"4353733cb426656c","fromNode":"a687e3e4880d3cdc","fromSide":"bottom","toNode":"da98bc5a66ad25a9","toSide":"top"},
+		{"id":"21713d6ea24e48da","fromNode":"a687e3e4880d3cdc","fromSide":"top","toNode":"64ea0a225d077f21","toSide":"bottom"},
+		{"id":"c3e09454708415ba","fromNode":"51f0a1ec2d71727b","fromSide":"bottom","toNode":"7a8dee869026bbdd","toSide":"top"},
+		{"id":"0184a40cc22fc256","fromNode":"51f0a1ec2d71727b","fromSide":"bottom","toNode":"df22c5a5773f568f","toSide":"top"},
+		{"id":"82848ef5231f8820","fromNode":"51f0a1ec2d71727b","fromSide":"bottom","toNode":"eaf50acbdaddb236","toSide":"top"},
+		{"id":"8c5d8bea617bb4c1","fromNode":"51f0a1ec2d71727b","fromSide":"right","toNode":"cd88749be2ea2e18","toSide":"left"}
+	]
+}
