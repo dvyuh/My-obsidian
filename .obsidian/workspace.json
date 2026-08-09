@@ -20,8 +20,39 @@
               "icon": "lucide-file",
               "title": "WSGI Stuff"
             }
+          },
+          {
+            "id": "ec9f932deb67e1a6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "b5339b0edaa8042d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "c9a4c1a72a8fa988",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -184,7 +215,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4f773d85a7db43de",
+  "active": "c9a4c1a72a8fa988",
   "lastOpenFiles": [
     "Web Server/WSGI Stuff.md",
     "Web Server/Web_Server basics.md",
