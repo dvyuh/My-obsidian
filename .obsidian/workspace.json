@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "322f7a9325cd54f1",
+        "id": "fec0e9d785adf478",
         "type": "tabs",
         "children": [
           {
-            "id": "33dae87eba27c76b",
+            "id": "9f9a25c1674f446c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GIT.md",
+                "file": "Web Server/WSGI Stuff.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GIT"
+              "title": "WSGI Stuff"
             }
           }
         ]
@@ -40,8 +40,10 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -56,7 +58,7 @@
                 "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -113,12 +115,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Idea sheet.canvas",
-                "linksCollapsed": false,
+                "file": "google Ux desin/UX DESIGN PORTFOLIO.md",
+                "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Idea sheet"
+              "title": "Outgoing links from UX DESIGN PORTFOLIO"
             }
           },
           {
@@ -142,16 +144,27 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "google Ux desin/UX DESIGN PORTFOLIO.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of UX DESIGN PORTFOLIO"
+            }
+          },
+          {
+            "id": "eeab899e4affdb79",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -160,62 +173,65 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "33dae87eba27c76b",
+  "active": "4f773d85a7db43de",
   "lastOpenFiles": [
-    "Rough sheet.md",
+    "Web Server/WSGI Stuff.md",
+    "Web Server/Web_Server basics.md",
     "Idea sheet.canvas",
-    "CSS/CSS GRIDS.md",
-    "javascript/FETCH.md",
-    "javascript/1 BASICS.md",
-    "javascript/Event_listner.md",
-    "assets/Pasted image 20250526134939.png",
-    "javascript/JSON.md",
-    "assets/Pasted image 20250526134011.png",
-    "assets/Pasted image 20250526133918.png",
-    "assets/Pasted image 20250526133752.png",
-    "assets/Pasted image 20250526133635.png",
-    "assets/Pasted image 20250526133604.png",
-    "javascript/Acceptation of user in put.md",
-    "javascript/Async&Await.md",
-    "assets/Pasted image 20250526133134.png",
-    "javascript/PROMISES.md",
-    "javascript/CALLBACK HELL.md",
-    "assets/Pasted image 20250526133010.png",
-    "Async/Await.md",
-    "Async",
-    "assets/Pasted image 20250526125628.png",
-    "assets/Pasted image 20250526125531.png",
-    "javascript/CallBacks.md",
+    "README.md",
+    "mern-workout/REACT BASIC.md",
     "GIT.md",
-    "javascript/ClassList.md",
-    "javascript/nodelist.md",
-    "javascript/Add and change in html using js.md",
-    "javascript/DOM.md",
-    "javascript/Errors.md",
-    "javascript/Arrays.md",
-    "javascript/Arithmetic operations.md",
-    "javascript/loops.md",
-    "javascript/Set time out.md",
-    "javascript/Objects.md",
-    "javascript/ES6Module.md",
+    "obsidian/coool file.md",
+    "Pointers.md",
+    "DSA/Starts with the basics.md",
+    "DSA",
+    "Untitled.base",
+    "Web Server",
+    "java/LAB 3 arrays.md",
+    "obsidian",
+    "Daily log/2025/05-May/2025-05-16-Friday.md",
+    "Daily log/2025/05-May/2025-05-17-Saturday.md",
+    "Daily log/2025/05-May/2025-05-19-Monday.md",
     "Daily log/2025/05-May/2025-05-22-Thursday.md",
-    "Timestamps/2025/05-May",
-    "Timestamps/2025",
-    "Timestamps",
-    "Unreal engine",
-    "Daily log/2025/05-May",
-    "Daily log/2025",
-    "Daily log/Template",
-    "javascript",
-    "Daily log"
+    "Daily log/2025/05-May/2025-05-21-Wednesday.md",
+    "java/basic.md",
+    "mern-workout/Controllers.md",
+    "mern-workout/Express.md",
+    "mern-workout/Frontend.md",
+    "mern-workout/Untitled.base",
+    "javascript/1 BASICS.md",
+    "mern-workout/MongoDB.md",
+    "java",
+    "assets/Pasted image 20260621171121.png",
+    "assets/Untitled.md",
+    "google Ux desin/Course 3/Prototyping.md",
+    "assets/Pasted image 20260521182115.png",
+    "mern-workout",
+    "assets/Pasted image 20260521184827.png",
+    "assets/Pasted image 20260521185617.png",
+    "assets/Pasted image 20260521195946.png",
+    "javascript/Acceptation of user in put.md",
+    "javascript/If statements.md",
+    "javascript/Errors.md",
+    "REACT/Untitled.base",
+    "REACT",
+    "google Ux desin/Course 1/Untitled.base",
+    "assets/Pasted image 20260521190438.png",
+    "assets/Pasted image 20260521182405.png",
+    "assets/Pasted image 20260521182102.png",
+    "assets/Pasted image 20260521155641.png",
+    "assets/Pasted image 20260521155205.png",
+    "Untitled.canvas"
   ]
 }

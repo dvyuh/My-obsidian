@@ -1,7 +1,9 @@
 [
   "url-into-selection",
-  "obsidian-minimal-settings",
   "templater-obsidian",
   "dataview",
-  "supercharged-links-obsidian"
+  "supercharged-links-obsidian",
+  "obsidian-git",
+  "obsidian-minimal-settings",
+  "obsidian-style-settings"
 ]

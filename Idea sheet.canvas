@@ -2,11 +2,6 @@
 	"nodes":[
 		{"id":"2ea0ceac34bd659e","type":"group","x":-340,"y":-265,"width":880,"height":661,"label":"Weather app"},
 		{"id":"d722852e600c686e","type":"group","x":580,"y":-740,"width":440,"height":500,"color":"5","label":"Ascii Art"},
-		{"id":"64ea0a225d077f21","type":"text","text":"52 weeks 52 projects\n30 days 30 art projects\n","x":120,"y":-891,"width":308,"height":131},
-		{"id":"9e0c641ecc954072","type":"text","text":"Ascii art\n\nIdea came from\nhttps://athoug.github.io/art-daily/\n","x":600,"y":-720,"width":397,"height":130},
-		{"id":"99a172ee3451b6c8","type":"text","text":"create a task manager\n* dragable managing tasks(changing priority)\n* change color to distinguish priorities\n* priority changes on color\n* progress bar on top that detects current status\n","x":-920,"y":-601,"width":420,"height":223},
-		{"id":"d899cc1dbff63673","type":"text","text":"![[Pasted image 20250519154849.png]]","x":600,"y":-560,"width":397,"height":270},
-		{"id":"a687e3e4880d3cdc","type":"text","text":"# IDEA SHEET","x":-160,"y":-520,"width":250,"height":60,"color":"1"},
 		{"id":"da98bc5a66ad25a9","type":"text","text":"Weather app\n\nbackground (3d)\n\nscreen in front of it to change weather of different places \n\nchanging places affect the weather of the background\n\nmake it like a window where you can see out of it changing the weather\n","x":-320,"y":-245,"width":419,"height":365},
 		{"id":"c67208c12a536f95","type":"text","text":"use stabel diffusion\n\ncan also make a side by side video\n","x":120,"y":-236,"width":367,"height":115},
 		{"id":"2c34a604042d9a9c","type":"text","text":"glass morph\n\nchange whole theme\n\nuse spline for small 3d elements\n\nbackground tint ??\n\nadd blurred clouds?\n","x":120,"y":-92,"width":367,"height":272},
@@ -15,7 +10,18 @@
 		{"id":"cd88749be2ea2e18","type":"text","text":"top down Zombie shooter game\n\n\nshotgun causes recoil makes person go back\n\nrifle slows the guy\n\npistol works normal\n\n- [ ] Wasd movement\n- [ ]  Create 2D player sprite (placeholder is fine)\n- [ ]  colliders \n- [ ] make player rotate with mouse\n\n---\n\n- [ ] bullet prefab\n- [ ] shooting bullets\n- [ ] bullet speed and lifetime\n- [ ] cooldown and firerate\n\n---\n- [ ] zombie and it colliders\n- [ ] follow player ai\n- [ ] spawn zombies\n- [ ] dedstroy when health 0\n- [ ] add health\n\n---\n- [ ] player health\n- [ ] zombie damage on contact\n- [ ] bullets damage zombie\n- [ ] game over\n\n---\n\n\n","x":315,"y":-2390,"width":570,"height":1110},
 		{"id":"7a8dee869026bbdd","type":"text","text":"endless runner\n\ntotal 10 segments\n\n5-6  of each kind\n\nrotate half of them\n\nonly need to make 5 or \n","x":-410,"y":-1450,"width":250,"height":340},
 		{"id":"df22c5a5773f568f","type":"text","text":"flappy birb\n\n- [ ] start menu\n- [ ] sound effects\n- [x] go up and die\n- [x] clouds \n- [ ] save highscore\n- [ ] paralax bacckground?","x":-1524,"y":-2005,"width":250,"height":340},
-		{"id":"eaf50acbdaddb236","type":"text","text":"3d rogue like\n\nheal like dead island 2","x":-1170,"y":-1450,"width":250,"height":404}
+		{"id":"64ea0a225d077f21","type":"text","text":"52 weeks 52 projects\n30 days 30 art projects\n","x":120,"y":-891,"width":308,"height":131},
+		{"id":"9e0c641ecc954072","type":"text","text":"Ascii art\n\nIdea came from\nhttps://athoug.github.io/art-daily/\n","x":600,"y":-720,"width":397,"height":130},
+		{"id":"d899cc1dbff63673","type":"text","text":"![[Pasted image 20250519154849.png]]","x":600,"y":-560,"width":397,"height":270},
+		{"id":"a687e3e4880d3cdc","type":"text","text":"# IDEA SHEET","x":-160,"y":-520,"width":250,"height":60,"color":"1"},
+		{"id":"eaf50acbdaddb236","type":"text","text":"3d rogue like\n\nheal like dead island 2","x":-1170,"y":-1450,"width":250,"height":404},
+		{"id":"99a172ee3451b6c8","type":"text","text":"create a task manager\n* dragable managing tasks(changing priority)\n* change color to distinguish priorities\n* priority changes on color\n* progress bar on top that detects current status\n","x":-920,"y":-601,"width":420,"height":223},
+		{"id":"f35cfb623692631f","type":"text","text":"courtroom.py","x":-2060,"y":-260,"width":250,"height":60},
+		{"id":"5e2c84d554ccca9d","type":"text","text":"1 criminal \ncommited a crime\n\ninterrogation scene\nyou get 5 questions you can ask the criminal and thats it \nbefore the courtroom scene comes\nfirst ai role is complete\n\n","x":-1940,"y":-140,"width":260,"height":340},
+		{"id":"9cc25603805c34bb","type":"text","text":"prosecutor\n\nthey will keep on saing random and false fascts\n","x":-2420,"y":-140,"width":240,"height":340},
+		{"id":"dd1dca88c29a6cc9","type":"text","text":"limited tries to convince the judge","x":-2420,"y":200,"width":495,"height":120},
+		{"id":"06d55804192cc1d9","type":"text","text":"win lose condition\n1. no jail without eveidence\n2. jail for few years\n3. hang till death\n4. secret ending judge shoots criminal because of his attrocias act","x":-1940,"y":200,"width":255,"height":340},
+		{"id":"311c632281cc531d","type":"text","text":"judge ai\n\ndepressed judge \neasily annoyed\n\nconvince him","x":-2180,"y":-140,"width":240,"height":340}
 	],
 	"edges":[
 		{"id":"fc0b43358d723167","fromNode":"a687e3e4880d3cdc","fromSide":"left","toNode":"99a172ee3451b6c8","toSide":"right"},
