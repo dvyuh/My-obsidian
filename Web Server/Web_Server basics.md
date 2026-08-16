@@ -1,4 +1,4 @@
-a combination of computer hardware and software that stores website files and delivers them to a user's web browser over the internet using HTTP or HTTPS protocols.
+	a combination of computer hardware and software that stores website files and delivers them to a user's web browser over the internet using HTTP or HTTPS protocols.
 
 ## A URL
 basically the url is the address of the webserver it needs to find and share it with the host browser.

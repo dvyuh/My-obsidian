@@ -4,11 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "fec0e9d785adf478",
+        "id": "f648aeac3bc1a018",
         "type": "tabs",
         "children": [
           {
-            "id": "9f9a25c1674f446c",
+            "id": "a1a990b37c751e56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web Server/Web_Server basics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Web_Server basics"
+            }
+          },
+          {
+            "id": "078a7d013a3d354a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,37 +36,21 @@
             }
           },
           {
-            "id": "ec9f932deb67e1a6",
+            "id": "120cc185bccd4e6a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Web Server/How to get multiple clients at the same time.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "b5339b0edaa8042d",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "c9a4c1a72a8fa988",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "title": "How to get multiple clients at the same time"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -215,17 +213,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c9a4c1a72a8fa988",
+  "active": "120cc185bccd4e6a",
   "lastOpenFiles": [
     "Web Server/WSGI Stuff.md",
+    "Web Server/How to get multiple clients at the same time.md",
+    "assets/Pasted image 20260816211130.png",
     "Web Server/Web_Server basics.md",
+    "Web Server/Untitled.base",
+    "DSA/Starts with the basics NEED TO LEARN PYTHON??.md",
     "Idea sheet.canvas",
     "README.md",
     "mern-workout/REACT BASIC.md",
     "GIT.md",
     "obsidian/coool file.md",
     "Pointers.md",
-    "DSA/Starts with the basics.md",
     "DSA",
     "Untitled.base",
     "Web Server",
@@ -257,12 +258,10 @@
     "javascript/Errors.md",
     "REACT/Untitled.base",
     "REACT",
-    "google Ux desin/Course 1/Untitled.base",
     "assets/Pasted image 20260521190438.png",
     "assets/Pasted image 20260521182405.png",
     "assets/Pasted image 20260521182102.png",
     "assets/Pasted image 20260521155641.png",
-    "assets/Pasted image 20260521155205.png",
     "Untitled.canvas"
   ]
 }
