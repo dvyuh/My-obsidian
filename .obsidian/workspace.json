@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Server/How to get multiple clients at the same time.md",
+                "file": "Pokearena/architecture.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "How to get multiple clients at the same time"
+              "title": "architecture"
             }
           }
         ],
@@ -197,8 +197,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 470.76171875
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -215,10 +214,17 @@
   },
   "active": "120cc185bccd4e6a",
   "lastOpenFiles": [
-    "Web Server/WSGI Stuff.md",
+    "Pokearena/Untitled.md",
+    "Pokearena/architecture.md",
     "Web Server/How to get multiple clients at the same time.md",
-    "assets/Pasted image 20260816211130.png",
+    "Pokearena",
+    "assets/Pasted image 20260521182102.png",
+    "assets/Pasted image 20260521185617.png",
+    "assets/Pasted image 20260621171121.png",
+    "LabelTruth.md",
     "Web Server/Web_Server basics.md",
+    "Web Server/WSGI Stuff.md",
+    "assets/Pasted image 20260816211130.png",
     "Web Server/Untitled.base",
     "DSA/Starts with the basics NEED TO LEARN PYTHON??.md",
     "Idea sheet.canvas",
@@ -245,22 +251,15 @@
     "javascript/1 BASICS.md",
     "mern-workout/MongoDB.md",
     "java",
-    "assets/Pasted image 20260621171121.png",
     "assets/Untitled.md",
     "google Ux desin/Course 3/Prototyping.md",
     "assets/Pasted image 20260521182115.png",
     "mern-workout",
     "assets/Pasted image 20260521184827.png",
-    "assets/Pasted image 20260521185617.png",
     "assets/Pasted image 20260521195946.png",
-    "javascript/Acceptation of user in put.md",
-    "javascript/If statements.md",
-    "javascript/Errors.md",
     "REACT/Untitled.base",
-    "REACT",
     "assets/Pasted image 20260521190438.png",
     "assets/Pasted image 20260521182405.png",
-    "assets/Pasted image 20260521182102.png",
     "assets/Pasted image 20260521155641.png",
     "Untitled.canvas"
   ]
